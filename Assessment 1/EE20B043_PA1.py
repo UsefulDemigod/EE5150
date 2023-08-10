@@ -1,5 +1,5 @@
 # Programming Assignment 1
-# Harisankar K J, EE20B43
+# Harisankar K J, EE20B043
 
 
 import numpy as np
